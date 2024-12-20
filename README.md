@@ -1,1 +1,1 @@
-A version of Threecreepio's NES input display nespy (https://github.com/threecreepio/nespy) with an image of a NES controller I modified to prefectly fit the controller.
+A version of Threecreepio's NES input display nespy (https://github.com/threecreepio/nespy) with an image of a NES controller I modified to prefectly fit the controller. To use, simply download the entire folder as a zip and run the nespy.exe file.
